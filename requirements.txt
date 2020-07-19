@@ -1,0 +1,8 @@
+Flask
+Flask-Admin
+flask-paginate
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-Security
+gunicorn
+bcrypt
